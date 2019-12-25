@@ -4,6 +4,7 @@
 Simple Appium Maven Example
 
 need to create .env file to run
+
 Example .env file
 ```
 PLATFORM_NAME=Android
