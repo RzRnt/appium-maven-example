@@ -20,6 +20,6 @@ APP_WAIT_ACTIVITY=*ebay*
 
 ELEMENT_WAIT_TIMEOUT=30
 ELEMENT_WAIT_SHORT_TIMEOUT=5
-APPIUM_URL=http://localhost:4723/wd/hub //Run Appium Externally
+APPIUM_URL=http://localhost:4723/wd/hub #Run Appium Externally
 ```
 
